@@ -1,0 +1,6 @@
+flask
+flask-cors
+python-dotenv
+selenium
+webdriver-manager
+sqlite3
